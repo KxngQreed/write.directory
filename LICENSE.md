@@ -1,4 +1,4 @@
-writedir
+write.directory
 
 ### LICENSE
 
